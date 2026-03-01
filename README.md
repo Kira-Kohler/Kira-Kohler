@@ -50,7 +50,7 @@ Es un servidor **híbrido** de Fortnite, el cuál te permite tener **cualquier c
 
 ### 👾 ClashRPC — Discord Rich Presence para Clash Royale
 Programa para mostrar un **Rich Presence** en Discord vinculado a tu cuenta de **Clash Royale**.  
-**Stack:** Rust + JavaScript
+**Stack:** 100% Rust
 
 ---
 
